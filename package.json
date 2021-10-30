@@ -1,6 +1,6 @@
 {
   "name": "squaller",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "lightweight and simple components framework for websites",
   "main": "squaller.js",
   "directories": {
