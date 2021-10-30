@@ -1,0 +1,19 @@
+{
+  "name": "squaller",
+  "version": "1.0.0",
+  "description": "lightweight and simple components framework for websites",
+  "main": "squaller.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "components",
+    "framework",
+    "lightweight"
+  ],
+  "author": "0Exe",
+  "license": "MIT"
+}
