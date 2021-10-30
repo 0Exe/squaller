@@ -1,18 +1,17 @@
 squaller.js
 
-<br>
-
 simple and lightweight component based framework
 
-<br>
-
 importing squaller.js
+
+if you installed the `squallor.js` file:
 ```html
 <script type="module" src="squaller.js" defer>
 ```
-or use the CDNS (will add soon)
-
-<br>
+if you want to use a CDN for it:
+```html
+<script type="module" src="https://cdn.jsdelivr.net/npm/squaller@1.0.0/src/squaller.js" defer>
+```
 
 example use-case:
 ```html
@@ -30,4 +29,5 @@ example use-case:
 
         <default></default>
     </body>
-</html>```
+</html>
+```
