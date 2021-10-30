@@ -17,17 +17,14 @@ example use-case:
 ```html
 <html>
     <head>
-        <script type="module" src="../src/squaller.js" defer>
-
-
-        </script>
+        <script type="module" src="../src/squaller.js" defer></script>
     </head>
     <body id="root">
-        <squallerComponent name="default" style="display: none;">
-            <h1 style="color: red;">Hello nWorld!</h1>
+        <squallerComponent name="default">
+            <h1 style="color: red;">Hello ${sail1} and ${sail2}!</h1>
         </squallerComponent>
 
-        <default></default>
+        <default sail="sail1: example one; sail2: epic"></default>
     </body>
 </html>
 ```
