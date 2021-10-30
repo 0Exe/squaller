@@ -10,14 +10,14 @@ if you installed the `squallor.js` file:
 ```
 if you want to use a CDN for it:
 ```html
-<script type="module" src="https://cdn.jsdelivr.net/npm/squaller@1.1.0/src/squaller.js" defer></script>
+<script type="module" src="https://cdn.jsdelivr.net/npm/squaller@1.1.1/src/squaller.js" defer></script>
 ```
 
 example use-case:
 ```html
 <html>
     <head>
-        <script type="module" src="https://cdn.jsdelivr.net/npm/squaller@1.1.0/src/squaller.js" defer></script>
+        <script type="module" src="https://cdn.jsdelivr.net/npm/squaller@1.1.1/src/squaller.js" defer></script>
     </head>
     <body id="root">
         <squallerComponent name="default">
